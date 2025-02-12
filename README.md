@@ -2,14 +2,6 @@
 
 Los siguientes ejercicios van sobre el posicionamiento CSS. Consulta este [enlace](https://www.w3schools.com/css/css_positioning.asp) para ver diferentes ejemplos.
 
-## Instrucciones
-
-1. Forkea el repo
-2. Clonar el repo
-3. Realizar los cambios demandados
-4. Commitear y pushear los cambios cada vez que consigas un ejercicio
-
-
 ## Posicionamiento-absoluto-2
 
 1. Completa la regla CSS .modal .close-button para situar el aspa roja en la parte superior derecha (aproximadamente). NO modifiques el HTML.
