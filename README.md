@@ -13,6 +13,12 @@ Los siguientes ejercicios van sobre el posicionamiento CSS. Consulta este [enlac
 
 1. Define un DIV para cada caja. Dale estilos hasta que te queden un conjunto de cajas en vertical. Luego, usa adecuadamente _float_ para hacer que todas la cajas _floten_ a la izquierda. Revisad este [enlace](https://www.w3schools.com/cssref/pr_class_float.php)
 ![screencapture-mclibre-org-consultar-htmlcss-ejercicios-posicionamiento-flotante-oscar-wilde-oscar-wilde-formateado-html-2023-09-27-08_30_56](https://github.com/omiras/posicionamiento-css-PIMEC/assets/3286458/c0c61e95-08d7-4aeb-b7e6-30574d9bf20a)
+2. ALTERNATIVA: ¡podéis plantearlo hacerlo con display:flex también! 
+
+## Posicionamiento-absoluto-2
+
+1. Completa la regla CSS .modal .close-button para situar el aspa roja en la parte superior derecha (aproximadamente). NO modifiques el HTML.
+![aspa roja](https://oscarm.tinytake.com/media/1728516?filename=1739353775308_TinyTake12-02-2025-10-49-29_638749505717829457.png&sub_type=thumbnail_preview&type=attachment&width=479&height=326)
 
 ## Posicionamiento-absoluto
 
