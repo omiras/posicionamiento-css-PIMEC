@@ -22,7 +22,7 @@ Los siguientes ejercicios van sobre el posicionamiento CSS. Consulta este [enlac
 
 ## Posicionamiento-fixed
 
-1. El header superior tiene un posicionamiento _fixed_ . Fíjate en este [vídeo](https://oscarm.tinytake.com/msc/ODczNTkyN18yMjEzODc0NA) cómo debe quedar.
+1. El header superior tiene un posicionamiento _fixed_ . Fíjate en este [vídeo](https://oscarm.tinytake.com/df/1728e57/thumbnail?type=attachments&version_no=0&file_version_no=0&thumbnail_size=preview) cómo debe quedar.
 ![screencapture-mclibre-org-consultar-htmlcss-ejercicios-posicionamiento-fijo-software-libre-2-software-libre-2-formateado-html-2023-09-27-08_02_56](https://github.com/omiras/posicionamiento-css-PIMEC/assets/3286458/09405c2f-ae6a-4a96-af3e-35b38b0966c4)
 
 ## Flex bonus: Citas de Oscar Wilde
